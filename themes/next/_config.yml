@@ -166,7 +166,7 @@ avatar:
   # Replace the default image and set the url here.
   url: https://job.turn.tw/img/talk.jpg
   # If true, the avatar will be dispalyed in circle.
-  rounded: false
+  rounded: true
   # If true, the avatar will be rotated with the cursor.
   rotated: false
 
@@ -178,13 +178,13 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
-  #GitHub: https://github.com/yourname || github
+  GitHub: https://github.com/howtomakeaturn || github
+  StackOverflow: https://stackoverflow.com/users/851687/ || stack-overflow
   #E-Mail: mailto:yourname@gmail.com || envelope
   #Weibo: https://weibo.com/yourname || weibo
   #Google: https://plus.google.com/yourname || google
-  #Twitter: https://twitter.com/yourname || twitter
-  #FB Page: https://www.facebook.com/yourname || facebook
-  #StackOverflow: https://stackoverflow.com/yourname || stack-overflow
+  Twitter: https://twitter.com/howtomakeaturn || twitter
+  FB Page: https://www.facebook.com/chuanhao.you || facebook
   #YouTube: https://youtube.com/yourname || youtube
   #Instagram: https://instagram.com/yourname || instagram
   #Skype: skype:yourname?call|chat || skype
