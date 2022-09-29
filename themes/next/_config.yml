@@ -120,7 +120,7 @@ menu:
   home: / || home
   about: /about/ || user
   ask: /ask/ || envelope
-  consult: /consult/ || comments
+  #consult: /consult/ || comments
   #tags: /tags/ || tags
   #categories: /categories/ || th
   #archives: /archives/ || archive
