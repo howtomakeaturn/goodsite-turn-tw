@@ -13,4 +13,4 @@ date: 2022-09-29 10:39:42
 
 ![author](https://pbs.twimg.com/profile_images/683514775171538944/fot_zOr6_400x400.jpg)
 
-照片攝於 PHPConf Taiwan 2015 - https://2015.phpconf.tw/
+照片攝於台灣 PHP 工程師研討會：PHPConf Taiwan 2015 - https://2015.phpconf.tw/
