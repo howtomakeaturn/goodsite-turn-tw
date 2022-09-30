@@ -16,3 +16,5 @@ UGC -> 留言板服務 免費問答 -> nice for SEO -> maybe can do further serv
 tip001
 case001 -> maybe too negative
 qa001
+
+https://www.ptt.cc/bbs/toberich/M.1664507084.A.7EB.html
